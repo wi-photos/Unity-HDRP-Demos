@@ -1,1 +1,3 @@
 SpaceShipDemo utilizes race_spaceship.blend CC-BY Alessandro Chiffi / ONdata Studio https://www.blender.org/download/demo-files/
+
+EmberDemo utilizes forest.blend CC-BY | Scene by Mike Pan, Tree by 3dxy https://www.blender.org/download/demo-files/

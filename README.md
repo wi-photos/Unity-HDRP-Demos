@@ -1,2 +1,2 @@
 # Unity-HDRP-Demos
-Some misc demos with Unity HDRP.
+Some miscellaneous tech demos with Unity HDRP.
