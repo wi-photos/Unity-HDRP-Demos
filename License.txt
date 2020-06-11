@@ -1,3 +1,5 @@
 SpaceShipDemo utilizes race_spaceship.blend CC-BY Alessandro Chiffi / ONdata Studio https://www.blender.org/download/demo-files/
 
 EmberDemo utilizes forest.blend CC-BY | Scene by Mike Pan, Tree by 3dxy https://www.blender.org/download/demo-files/
+
+JapaneseDemo utilizes a modified version of temple.blend CC-BY-SA Dominik Graf http://www.artstation.com/artist/dommigraf https://www.blender.org/download/demo-files/
