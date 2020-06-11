@@ -1,0 +1,1 @@
+SpaceShipDemo utilizes race_spaceship.blend CC-BY Alessandro Chiffi / ONdata Studio https://www.blender.org/download/demo-files/
