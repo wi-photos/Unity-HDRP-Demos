@@ -1,5 +1,5 @@
 # Unity-HDRP-Demos
-Some miscellaneous tech demos with Unity HDRP.
+Some miscellaneous tech demos with Unity HDRP. Since the repository is quite large (1GB+), it is probably best to download the demo you would like here https://wiphotos.itch.io/unity-hdrp-demos.
 
 ![Alt text](Screenshots/japanesescreenshot4.jpg?raw=true "Japanese1")
 ![Alt text](Screenshots/japanesescreenshot2.jpg?raw=true "Japanese2")
