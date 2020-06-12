@@ -1,11 +1,11 @@
 # Unity-HDRP-Demos
 Some miscellaneous tech demos with Unity HDRP.
 
-![Alt text](JapaneseDemo/japanesescreenshot4.png?raw=true "Japanese1")
-![Alt text](JapaneseDemo/japanesescreenshot2.png?raw=true "Japanese2")
-![Alt text](JapaneseDemo/japanesescreenshot3.png?raw=true "Japanese3")
-![Alt text](JapaneseDemo/japanesescreenshot1.png?raw=true "Japanese4")
-![Alt text](EmberDemo/emberscreenshot1.png?raw=true "Ember1")
-![Alt text](EmberDemo/emberscreenshot2.png?raw=true "Ember2")
-![Alt text](EmberDemo/emberscreenshot3.png?raw=true "Ember3")
-![Alt text](SpaceShipDemo/spaceshipscreenshot1.png?raw=true "Ember")
+![Alt text](Screenshots/japanesescreenshot4.jpg?raw=true "Japanese1")
+![Alt text](Screenshots/japanesescreenshot2.jpg?raw=true "Japanese2")
+![Alt text](Screenshots/japanesescreenshot3.jpg?raw=true "Japanese3")
+![Alt text](Screenshots/japanesescreenshot1.jpg?raw=true "Japanese4")
+![Alt text](Screenshots/emberscreenshot1.jpg?raw=true "Ember1")
+![Alt text](Screenshots/emberscreenshot2.jpg?raw=true "Ember2")
+![Alt text](Screenshots/emberscreenshot3.jpg?raw=true "Ember3")
+![Alt text](Screenshots/spaceshipscreenshot1.jpg?raw=true "Ship")
