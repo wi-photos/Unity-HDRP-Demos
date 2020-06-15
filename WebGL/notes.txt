@@ -1,0 +1,1 @@
+This folder contains a low-graphics non-HDRP version of the demos.  The graphics will not look as good as the actual HDRP demos.
